@@ -1,0 +1,14 @@
+p{
+    margin: 1rem auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-p{
+    background-color: rgb(163, 163, 163);
+    height: 9vmin;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
